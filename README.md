@@ -1,8 +1,10 @@
-# Titol
-A short description
-## myportfolio2
-Tesr in uto poi trah
-### myportfolio3
-- hghghghg
-Descrizione
-- 12121212
+# Cybersecurity Student
+
+## Education
+Bachelor Degree in Computer science
+- Master Degree in Cybersecurity 
+## Projects
+- Project1
+- Project2
+1. Project 3
+2. Project 4
